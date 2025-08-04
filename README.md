@@ -35,8 +35,8 @@ Assicurati che Docker e Docker Compose siano installati e attivi sulla tua macch
 **1. Clona il repository:**
 
 ```bash
-git clone <repo_url>
-cd <repo_folder>
+git clone https://github.com/ehsanshaikhprojs/job-project
+cd job-project
 ```
 **2. Avvia l’applicazione con Docker Compose:**
 ```bash
